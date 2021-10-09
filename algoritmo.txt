@@ -1,0 +1,69 @@
+
+1. Faça um algoritmo que mostre o passo a passo para trocar uma de lâmpada queimada.
+1. Liga o interruptor e verifica se a lampada está funcionando;
+2. Se a lampada não ligar, está queimada;
+3. Desliga o interruptor;
+3. Localiza uma escada;
+4. Localiza uma lampada nova;
+5. Pega a lampada e a escada;
+6. Posiona a escada em baixo da lampada queimada;
+7. Sobe na escada;
+8. Retira a lampada queimada;
+9. Coloca a lampada nova;
+10. Desce da escada;
+11. Liga o interruptor;
+12. Se a lampada não ligar, procura uma nova lampada e repete o processo;
+13. Se a lampada ligar, retira a escada e guarda.
+
+
+2.  Faça um algoritmo que mostre o passo a passo para passear com seu animal de estimação.
+1. Pegar a coleira do Pet;
+2. Colocar a coleira no Pet;
+3. Abrir a porta de casa;
+4. Sair para o lado de fora da casa;
+5. Fechar a porta da casa;
+6. Caminhar com o Pet por 30 minutos;
+7.	Se o Pet fizer necessidades:
+8.		Recolher as necessinades em sacola e jogar no lixo
+9.	Senão:
+10.		Continuar o passeio
+11. Retornar para casa;
+12. Abrir a porta de casa;
+13. Entrar dentro de casa;
+14. Fechar a porta de casa;
+15. Retirar a coleira do Pet;
+16. Passeio concluído.
+
+3. Faça um algoritmo que mostre o passo a passo para acessar um computador.
+passos:
+1 - Identificar se o computador está ligado na tomada (se sim)
+2-	ligar o computador
+3- 		aguardar o carregamento das informações
+4-		tela de abertura 
+5- 	tem mais de 1 usuário (se sim)
+6-		identificar o usuário
+7-	tem senha (se sim)
+8-		colocar a senha para acesso ao computador
+9-  	(se não) acessou ao computador
+
+4. Faça um algoritmo que mostre o passo a passo para lavar um copo
+1. verifica se tem louça suja (se sim);
+2. pega a bucha e o detergente;
+3. coloca o detergente na bucha;
+4. liga a torneira;
+5. molha a bucha
+6. pega o copo;
+7. passa a bucha no copo;
+8. lava o copo para tirar o detergente;
+9. pega o pano;
+10. seca o copo;
+11. guarda o copo.
+
+5 - Faça um algoritmo que mostre o passo a passo para postar uma foto em um rede social
+1- Pegar o celular;
+2- abrir a galeria;
+3- escolher a foto, clicar em compartilhar
+4- escolher a rede social;
+5- clicar na rede social escolhida;
+6- escrever uma legenda, caso queira;
+7- clicar em postar.
